@@ -1,0 +1,12 @@
+D:\proyectos\practicas\c#\api\api\api.Model\bin\Debug\net6.0\api.Model.deps.json
+D:\proyectos\practicas\c#\api\api\api.Model\bin\Debug\net6.0\api.Model.dll
+D:\proyectos\practicas\c#\api\api\api.Model\bin\Debug\net6.0\api.Model.pdb
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.csproj.AssemblyReference.cache
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.AssemblyInfoInputs.cache
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.AssemblyInfo.cs
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.csproj.CoreCompileInputs.cache
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.dll
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\refint\api.Model.dll
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\api.Model.pdb
+D:\proyectos\practicas\c#\api\api\api.Model\obj\Debug\net6.0\ref\api.Model.dll
